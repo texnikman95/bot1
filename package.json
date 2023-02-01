@@ -1,0 +1,17 @@
+{
+    "name": "telebot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "nodemon index"
+    },
+    "author": "azimjon",
+    "license": "ISC",
+    "dependencies": {
+        "cron": "^2.2.0",
+        "dotenv": "^16.0.3",
+        "nodemon": "^2.0.20",
+        "telegraf": "^4.11.2"
+    }
+}
